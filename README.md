@@ -1,1 +1,3 @@
-First commit!
+# Control de Stock
+
+> Repositorio de Prueba
